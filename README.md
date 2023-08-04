@@ -18,8 +18,8 @@ python3 elas_iDAFNO.py
 ## Datasets
 We provide the elasticity dataset that is used in the paper.
 
-- [elasticity dataset](https://drive.google.com/drive/folders/1ounVgMFcMO-iSR2111Xf4YfNddd2ialv?usp=sharing)
-- [Original datasets (elasticity, airfoil, and more) from the Geo-FNO paper](https://drive.google.com/drive/folders/1YBuaoTdOSr_qzaow-G-iwvbUI7fiUzu8)
+- [Elasticity dataset](https://drive.google.com/drive/folders/1ounVgMFcMO-iSR2111Xf4YfNddd2ialv?usp=sharing)
+- [Original datasets from the Geo-FNO paper (elasticity, airfoil, and more)](https://drive.google.com/drive/folders/1YBuaoTdOSr_qzaow-G-iwvbUI7fiUzu8)
 
 ## Citation
 
