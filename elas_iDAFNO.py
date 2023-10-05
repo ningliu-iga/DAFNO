@@ -1,5 +1,5 @@
 """
-This code uses the implicit Domain-Agnostic Fourier Neural Operator (eDAFNO) on the hyperelasticity problem described
+This code uses the implicit Domain-Agnostic Fourier Neural Operator (iDAFNO) on the hyperelasticity problem described
 in the paper "Domain Agnostic Fourier Neural Operators"
 """
 
@@ -258,6 +258,7 @@ if __name__ == '__main__':
             for wd in wds:
                 for isd in seeds:
                     torch.manual_seed(isd)
+                    torch.cuda.manual_seed(isd)
                     np.random.seed(isd)
 
                     print(f'>> random seed: {isd}')
