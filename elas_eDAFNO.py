@@ -252,6 +252,7 @@ if __name__ == '__main__':
             for wd in wds:
                 for isd in seeds:
                     torch.manual_seed(isd)
+                    torch.cuda.manual_seed(isd)
                     np.random.seed(isd)
 
                     print(f'>> random seed: {isd}')
