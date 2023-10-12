@@ -1,4 +1,7 @@
 # Domain Agnostic Fourier Neural Operators (DAFNO)
+
+![DAFNO grid deformation demo.](https://github.com/ningliu-iga/DAFNO/blob/main/eDAFNO_grids_deformation_demo.png)
+
 This repository houses the code for our [NeurIPS 2023](https://nips.cc/Conferences/2023) paper:
 - [Domain Agnostic Fourier Neural Operators](https://arxiv.org/abs/2305.00478)
 
